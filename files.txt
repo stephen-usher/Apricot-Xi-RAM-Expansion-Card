@@ -1,0 +1,6 @@
+mv Apricot-Expansion-RAM.dsn Apricot-Xi-Expansion-RAM.dsn
+mv Apricot-Expansion-RAM.kicad_pcb Apricot-Xi-Expansion-RAM.kicad_pcb
+mv Apricot-Expansion-RAM.kicad_pcb-bak Apricot-Xi-Expansion-RAM.kicad_pcb-bak
+mv Apricot-Expansion-RAM.pro Apricot-Xi-Expansion-RAM.pro
+mv Apricot-Expansion-RAM.sch Apricot-Xi-Expansion-RAM.sch
+mv Apricot-Expansion-RAM.sch-bak Apricot-Xi-Expansion-RAM.sch-bak
